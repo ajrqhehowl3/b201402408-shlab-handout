@@ -1,7 +1,8 @@
 /* 
  * tsh - A tiny shell program with job control
- * 
- * <201402408 <limdongkuen>
+ *
+ * 201402408 임동근 테스트
+ * <Put your name and login ID here>
  */
 #include <stdio.h>
 #include <stdlib.h>
